@@ -1,0 +1,15 @@
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\bin\Debug\OpenSpades Trainer.exe.config
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\bin\Debug\OpenSpades Trainer.exe
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\bin\Debug\OpenSpades Trainer.pdb
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\bin\Debug\Memory.dll
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\bin\Debug\Memory.xml
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.csproj.AssemblyReference.cache
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades_Trainer.MainForm.resources
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades_Trainer.Properties.Resources.resources
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.csproj.GenerateResource.cache
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.csproj.CoreCompileInputs.cache
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.csproj.CopyComplete
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.exe
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades Trainer.pdb
+C:\Projects\C#\OpenSpades Trainer\OpenSpades Trainer\obj\Debug\OpenSpades_Trainer.FormOverlay.resources
